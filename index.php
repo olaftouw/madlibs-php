@@ -6,11 +6,12 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <banner>
-        <img src="./madlibs.png">
-    </banner>
+    <div>
+        <img src="./madlibs.png" alt="madlibs">
+    </div>
     <header>
-        <li>Er heerst paniek...</li><li>Onkunde</li>
+        <ul><li><a href="index.php">Er heerst paniek...</a></li>
+            <li><a href="index2.php">Onkunde</a></li></ul>
     </header>
     <main>
     <h2>Er heerst paniek...</h2>
